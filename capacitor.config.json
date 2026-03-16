@@ -1,0 +1,13 @@
+{
+  "appId": "it.chezan.diario",
+  "appName": "Diario delle Risonanze",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#c9a96e",
+      "sound": "beep.wav"
+    }
+  }
+}
